@@ -1,17 +1,16 @@
 # 💾 Welcome to My GitHub Profile!
 
-👋 Hi there! I'm **Yididiya Admasu**, a passionate an aspiring **game developer** and **software engineer**. I love building interactive worlds, telling stories through gameplay, and exploring the magic of game mechanics.
+👋 Hi there! I'm **Yididiya Admasu**, a passionate and aspiring **game developer** and **software engineer**.  
+Coding has been my interest since a young age, and I love building interactive worlds and exploring the magic of game mechanics.
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 I’m currently working on ***Shadow Circuit***, a cyberpunk stealth game uil
-* 🌱 I’m currently learning **Phaser.js**, **Unity C#**, and advanced **game physics**.
-* 👯 I’m looking to collaborate on **2D/3D indie games, game jams, and open-source game engines**.
-* 💬 Ask me about **game design, Flutter apps, and front-end development**.
-* 📨 How to reach me: [yididiyadev@example.com](mailto:yididiyadev@example.com) (replace with your real contact)
-* ⚡ Fun fact: I started coding by modding games before I even knew what programming was!
+* 🔭 I’m currently working on ***Shadow Circuit***, a cyberpunk stealth game (in progress).
+* 🌱 I really love **coding**—it’s been my passion from an early age.
+* 💪 Outside of programming, I enjoy going to the gym to stay active and focused.
+* 🌍 Based in **Ethiopia**.
 
 ---
 
@@ -28,7 +27,7 @@ Here are some of the games and apps I’ve worked on:
 
 ## 🛠️ Skills
 
-* **Languages:** Dart, C#, JavaScript, HTML, CSS
+* **Languages:** Python (beginner), Java (beginner), Dart, C#, JavaScript, HTML, CSS
 * **Game Engines/Frameworks:** Unity, Phaser.js, Godot (beginner)
 * **Tools:** Git, GitHub, Figma, Blender (basic), VS Code
 
@@ -39,8 +38,6 @@ Here are some of the games and apps I’ve worked on:
 Want to team up for a game jam or just chat about game design?
 
 * [LinkedIn](https://www.linkedin.com/in/yididiya-admasu-27199b305/)
-* [Twitter](https://twitter.com/your-username) *(Add your Twitter URL)*
-* [Portfolio Website](https://your-portfolio.com) *(Add your site if you have one)*
 
 ---
 
