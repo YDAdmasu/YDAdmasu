@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-👋 Hi there! I'm Yididiya, a [Your Profession/Title] with a passion for [Your Interests/Technologies]. I'm excited to share my projects and collaborate with others in the tech community.
+👋 Hi there! I'm Yididiya, a software engineer.with a passion for [Your Interests/Technologies]. I'm excited to share my projects and collaborate with others in the tech community.
 
 ## About Me
 
