@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on [Current Project or Technology].
+- 🔭 I’m currently working on .
 - 🌱 I’m currently learning [New Skills or Technologies].
 - 👯 I’m looking to collaborate on [Types of Projects or Areas].
 - 💬 Ask me about [Topics You’re Knowledgeable About].
