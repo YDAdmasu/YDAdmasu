@@ -29,7 +29,7 @@ Here are some of my notable projects:
 
 Feel free to reach out if you’d like to connect or collaborate!
 
-- [LinkedIn](your-linkedin-url)
+- [LinkedIn](https://www.linkedin.com/in/yididiya-admasu-27199b305/)
 - [Twitter](your-twitter-url)
 - [Personal Website/Blog](your-website-url)
 
