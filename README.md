@@ -5,7 +5,7 @@
 ## About Me
 
 - 🔭 I’m currently working on .
-- 🌱 I’m currently learning [New Skills or Technologies].
+- 🌱 I’m currently learning .
 - 👯 I’m looking to collaborate on [Types of Projects or Areas].
 - 💬 Ask me about [Topics You’re Knowledgeable About].
 - 📫 How to reach me: [Your Email or Social Media Links].
