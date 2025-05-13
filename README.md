@@ -1,36 +1,47 @@
-# Welcome to My GitHub Profile!
+# 💾 Welcome to My GitHub Profile!
 
-👋 Hi there! I'm Yididiya, a software engineer.with a passion for [Your Interests/Technologies]. I'm excited to share my projects and collaborate with others in the tech community.
+👋 Hi there! I'm **Yididiya**, a passionate and aspiring **game developer** and **software engineer**. I love building interactive worlds, telling stories through gameplay, and exploring the magic of game mechanics.
 
-## About Me
+---
 
-- 🔭 I’m currently working on .
-- 🌱 I’m currently learning .
-- 👯 I’m looking to collaborate on [Types of Projects or Areas].
-- 💬 Ask me about [Topics You’re Knowledgeable About].
-- 📫 How to reach me: [Your Email or Social Media Links].
-- ⚡ Fun fact: [A fun or interesting fact about you].
+## 🧠 About Me
 
-## Projects
+* 🔭 I’m currently working on ***Shadow Circuit***, a cyberpunk stealth game built with Unity.
+* 🌱 I’m currently learning **Phaser.js**, **Unity C#**, and advanced **game physics**.
+* 👯 I’m looking to collaborate on **2D/3D indie games, game jams, and open-source game engines**.
+* 💬 Ask me about **game design, Flutter apps, and front-end development**.
+* 📨 How to reach me: [yididiyadev@example.com](mailto:yididiyadev@example.com) (replace with your real contact)
+* ⚡ Fun fact: I started coding by modding games before I even knew what programming was!
 
-Here are some of my notable projects:
+---
 
-- [Project Name 1](link-to-your-project-1): A brief description of the project.
-- [Project Name 2](link-to-your-project-2): A brief description of the project.
-- [Project Name 3](link-to-your-project-3): A brief description of the project.
+## 🚀 Projects
 
-## Skills
+Here are some of the games and apps I’ve worked on:
 
-- **Languages:** [List of programming languages you know]
-- **Frameworks:** [List of frameworks you are familiar with]
-- **Tools:** [List of tools and technologies you use]
+* 🎮 [**Shadow Circuit**](#): A stealth platformer set in a neon-lit cyber city. Built with Unity and C#.
+* 🧩 [**Logic Loop**](#): A puzzle game where you build circuits to solve logic challenges. Built with Phaser.
+* 🛡️ [**Realm Defenders**](#): A tower defense game where you protect magical realms from pixel invaders. Made in Godot.
+* 📊 [**Expense Hero**](#): A gamified expense tracker app built with Flutter.
 
-## Get In Touch
+---
 
-Feel free to reach out if you’d like to connect or collaborate!
+## 🛠️ Skills
 
-- [LinkedIn](https://www.linkedin.com/in/yididiya-admasu-27199b305/)
-- [Twitter](your-twitter-url)
-- [Personal Website/Blog](your-website-url)
+* **Languages:** Dart, C#, JavaScript, HTML, CSS
+* **Game Engines/Frameworks:** Unity, Phaser.js, Godot (beginner)
+* **Tools:** Git, GitHub, Figma, Blender (basic), VS Code
 
-Thank you for visiting my profile! 😊
+---
+
+## 🤝 Get In Touch
+
+Want to team up for a game jam or just chat about game design?
+
+* [LinkedIn](https://www.linkedin.com/in/yididiya-admasu-27199b305/)
+* [Twitter](https://twitter.com/your-username) *(Add your Twitter URL)*
+* [Portfolio Website](https://your-portfolio.com) *(Add your site if you have one)*
+
+---
+
+Thanks for stopping by! Let’s make something amazing together 🎮✨
