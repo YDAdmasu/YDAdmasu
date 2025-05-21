@@ -1,6 +1,6 @@
 # 💾 Welcome to My GitHub Profile!
 
-👋 Hi there! I'm **Yididiya Admasu**, a passionate and aspiring **game developer** and **software engineer**. I love building interactive worlds, telling stories through gameplay, and exploring the magic of game mechanics.
+👋 Hi there! I'm **Yididiya Admasu**, a passionate an aspiring **game developer** and **software engineer**. I love building interactive worlds, telling stories through gameplay, and exploring the magic of game mechanics.
 
 ---
 
