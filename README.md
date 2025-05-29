@@ -5,7 +5,7 @@ Coding has been my interest since a young age, and I love building interactive w
 
 ---
 
-About Me
+## 🧠 About Me
 
 * 🔭 I’m currently working on ***Shadow Circuit***, a cyberpunk stealth game (in progress).
 * 🌱 I really love **coding**—it’s been my passion from an early age.
