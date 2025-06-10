@@ -6,7 +6,7 @@
 
 ## 🧠 About Me
 
-* 🔭 I’m currently working on ***Shadow Circuit***, a cyberpunk stealth game built with Unity.
+* 🔭 I’m currently working on ***Shadow Circuit***, a cyberpunk stealth game uilt with Unity.
 * 🌱 I’m currently learning **Phaser.js**, **Unity C#**, and advanced **game physics**.
 * 👯 I’m looking to collaborate on **2D/3D indie games, game jams, and open-source game engines**.
 * 💬 Ask me about **game design, Flutter apps, and front-end development**.
