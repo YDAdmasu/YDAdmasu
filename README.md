@@ -30,12 +30,12 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YDAdmasu&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YDAdmasu&layout=compact&theme=tokyonight)  
 
 ---
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:your@email.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/yididiya-admasu/))  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/YDAdmasu)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:yididiyaadmasu@email.com)  
