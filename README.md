@@ -5,10 +5,10 @@
 ---
 
 ## 🔥 About Me  
-- 💻 Building **scalable apps** with React, Next.js, Node.js & Pytho 
+- 💻 Building **scalable apps** with React, Next.js, Node.js & Python
 - 📱 Developed a **Flutter expense tracker** with Firebase integration  
 - 🛒 Created an **E-Commerce platform** with advanced search & store locator  
-- 🎮 Exploring **Unreal Engine & Unity** for game developmen  
+- 🎮 Exploring **Unreal Engine & Unity** for game development
 - ☁️ Learning **cloud & DevOps** (Docker, AWS, CI/CD, Kubernetes)  
 
 ---
