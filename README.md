@@ -1,11 +1,11 @@
-# 👋 Hi, I’m Yididiya Admasu 
+# 👋 Hi, I'm Yididiya Admasu 
 
 🚀 **Full-Stack Developer** | 🎮 **Game Dev Explorer** | 🌐 **Tech Enthusiast**  
 
 ---
 
 ## 🔥 About Me  
-- 💻 Building **scalable apps** with React, Next.js, Node.js & Pytho
+- 💻 Building **scalable apps** with React, Next.js, Node.js & Python
 - 📱 Developed a **Flutter expense tracker** with Firebase integration  
 - 🛒 Created an **E-Commerce platform** with advanced search & store locator  
 - 🎮 Exploring **Unreal Engine & Unity** for game development
@@ -29,13 +29,14 @@
 
 ---
 
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YDAdmasu&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YDAdmasu&layout=compact&theme=tokyonight)  
+## 📊 GitHub Stats & Streak  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YDAdmasu&show_icons=true&theme=tokyonight&include_all_commits=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YDAdmasu&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YDAdmasu&layout=compact&theme=tokyonight&hide=html,css)  
 
 ---
 
 ## 🌍 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/yididiya-admasu/))  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yididiya-admasu/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/YDAdmasu)  
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:yididiyaadmasu@email.com)  
+[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:yididiyaadmasu@gmail.com)
