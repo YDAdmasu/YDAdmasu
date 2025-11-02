@@ -1,6 +1,8 @@
 ## 👋 Hi, I'm Yididiya Admasu  
 
-🚀 **Full-Stack Developer** | 🎮 **Game Dev Explorer** | ☁️ **Tech Enthusiast**  
+🚀 **Full-Stack Developer** | 
+🎮 **Game Dev Explorer** | 
+☁️ **Tech Enthusiast**  
 
 ---
 
